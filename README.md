@@ -11,14 +11,14 @@ or without it.
 ## Example of Program Being Run
 This is the original binary viewed in a hexeditor.
 
-![](images/original_binary.PNG)
+![](https://github.com/KyleVoos/DigitalForensics-Lab4/blob/master/Images/original_binary.PNG)
 
 $ ./lab3 0x20 0x1122334455 backup  
 0x1122334455 successfully written at offset 0x20  
 
-![](images/modified_binary.PNG)
+![](https://github.com/KyleVoos/DigitalForensics-Lab4/blob/master/Images/modified_binary.PNG)
 
 $ ./lab3 20 0x22 backup  
 0x22 successfully written at offset 0x20  
 
-![](images/no0x.PNG)
+![](https://github.com/KyleVoos/DigitalForensics-Lab4/blob/master/Images/no0x.PNG)
